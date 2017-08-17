@@ -10,12 +10,12 @@ Note:Tkinter window is used for simple GUI operation
 
 In the py script, we make 3 main fucntions to do this work:
 
-   <code>walk_Directory</code>
-   This function will create a file name list with desired suffix name
-   <code>data_read</code>
+   <div><code>walk_Directory</code>
+   This function will create a file name list with desired suffix name</div>
+   <div><code>data_read</code>
    Find the camera MTF test data with desired key word. After that, creat a list contain sample ID and MTF value with ROIs
-   <code>data_save</code>
-   Output the data(list) and save them into *.csv file
+   <div><code>data_save</code></div>
+   Output the data(list) and save them into *.csv file</div>
 
 Simple and Easy
 
