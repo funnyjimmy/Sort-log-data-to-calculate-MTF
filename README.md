@@ -12,10 +12,10 @@ In the py script, we make 3 main fucntions to do this work:
 
    <div><code>walk_Directory</code></div>
    This function will create a file name list with desired suffix name</div>
-   <br>
+<br>
    <div><code>data_read</code></div>
    Find the camera MTF test data with desired key word. After that, creat a list contain sample ID and MTF value with ROIs
-   <br>
+<br>
    <div><code>data_save</code></div>
    <div>Output the data(list) and save them into *.csv file</div>
 <br>
